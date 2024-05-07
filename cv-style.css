@@ -1,0 +1,27 @@
+.nav ul{
+    list-style: none;
+    padding-inline-start: 0px;
+
+    }
+
+.nav li{
+    display: inline;
+    padding-left: 2em;
+    
+    }
+
+header {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+footer {
+    background-color: antiquewhite;
+    font-style: italic;
+    text-align: center;
+    
+}
+
+body {
+    background-color: whitesmoke
+}
